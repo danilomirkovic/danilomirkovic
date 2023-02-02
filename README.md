@@ -2,4 +2,6 @@
 # Full stack .Net and Python Developer from Sweden
 
 🌐Socials
-[![Linkedin Badge](https://img.shields.io/badge/-ludehsar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/danilo-mirkovic/)]
+<div id="badges">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="[LinkedIn Badge](https://www.linkedin.com/in/danilo-mirkovic/)"/>
+</div>
