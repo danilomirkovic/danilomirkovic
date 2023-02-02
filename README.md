@@ -1,7 +1,8 @@
 ### Hi,👋 I am Danilo
 # Full stack .Net and Python Developer from Sweden
 
-🌐Socials
+---
+### 🌐Socials
 <div id="badges">
   <a href="https://www.linkedin.com/in/danilo-mirkovic/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -11,8 +12,8 @@
 
 
 
-
-⚒️Languages and Tools
+---
+### ⚒️Languages and Tools
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original-wordmark.svg" title=".NET" alt=".NET" width="40" height="40"/>&nbsp;
