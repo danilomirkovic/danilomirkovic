@@ -2,4 +2,4 @@
 # Full stack .Net and Python Developer from Sweden
 
 🌐Socials
-[![Linkedin Badge](https://img.shields.io/badge/style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/danilo-mirkovic/)](https://www.linkedin.com/in/danilo-mirkovic/)
+[![Linkedin Badge](https://img.shields.io/badge/-ludehsar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/danilo-mirkovic/)]
