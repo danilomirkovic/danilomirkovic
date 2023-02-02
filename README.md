@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi,👋 I am Danilo
+## Full stack .Net Developer/Python from Sweden
 
 <!--
 **danilomirkovic/danilomirkovic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
