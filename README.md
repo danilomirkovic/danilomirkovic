@@ -1,7 +1,6 @@
 ### Hi,👋 I am Danilo
 # Full stack .Net and Python Developer from Sweden
 
----
 ### 🌐Socials
 <div id="badges">
   <a href="https://www.linkedin.com/in/danilo-mirkovic/">
@@ -39,5 +38,5 @@
 ---
 
 ### :fire: My Stats :
-
+https://github-readme-streak-stats.herokuapp.com/?user=your-danilomirkovic
 
